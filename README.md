@@ -1,0 +1,2 @@
+# applocalizacaodefalta
+A funcionalidade da Plataforma e do Aplicativo, Consisti que seja informado alguns dados para a realização da busca, Com o resultado da busca ele retornará um LDF com a geolocalização do mesmo, ao qual consisti em realizar uma rápida ação para resolver o problema de falta (Para determinados feitos, os dados terão de estar cadastrados na plataforma). A questão de análises para futuras prevenções, se dará pelos relatórios enviados dos colaboradores que estarão realizando a ocorrência informada.
